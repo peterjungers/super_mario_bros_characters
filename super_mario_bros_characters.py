@@ -1,7 +1,7 @@
 # ****************************************************************************
 # Author:           Peter Jungers
 # Program name:     Super Mario Bros. character database
-# Version:	        1.0
+# Version:          1.0
 # Date:             June, July 2022
 # Description:      Program allows user to construct database of characters
 #                   from Nintendo's Super Mario Bros. games. Database
